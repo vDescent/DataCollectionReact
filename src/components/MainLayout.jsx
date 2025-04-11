@@ -21,7 +21,7 @@ const Layout = ({ children }) => {
 
         <div className="navbar_right_content">
           <p className="text_date">{formattedDate}</p>
-          <img src="/src/assets/img/img_profilePicture.png" alt="Logo" className="img_rightContent"/> 
+          <img src="/assets/img/img_profilePicture.png" alt="Logo" className="img_rightContent"/> 
           {/* CATATAN NANTI GANTI PP */}
         </div>
 
